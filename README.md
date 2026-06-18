@@ -45,5 +45,5 @@ Body:
 }
 ```
 
-## Interview Explanation
+## Explanation
 I built this mini project to show my understanding of how a voice AI backend works. In a real system, the audio would be sent to an STT provider like Whisper or Deepgram, the transcript would be processed by an LLM or RAG pipeline, and the final text response would be converted into speech using a TTS service like ElevenLabs or Azure TTS.
